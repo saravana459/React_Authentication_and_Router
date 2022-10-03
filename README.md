@@ -1,3 +1,7 @@
+27 - React Type Script
+22 - Authentication
+20 - Router
+
 # Course Code & Materials
 
 This repository contains the course source code and other extra materials like slides.
@@ -45,3 +49,7 @@ To run my code, navigate into a specific code snapshot folder via the `cd` comma
 Then run `npm install` to install all required dependencies (this will create a `/node_modules` folder).
 
 **Important:** If you're using the code for a module that requires API keys or a backend (e.g. the module about sending Http requests), you'll have to use **your backend URLs** or API keys. Mine won't work (I disabled my projects).
+
+27 - React Type Script
+22 - Authentication
+20 - Router
